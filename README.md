@@ -98,7 +98,7 @@ Features derived from historical purchase data:
 
 ## 📁 Deliverables
 
-- ✅ `Untitled.ipynb` – Complete Python notebook
+- ✅ `Python Notebook.ipynb` – Complete Python notebook
 - ✅ `customer_LTV_predictions.csv` – LTV predictions for all customers
 - ✅ `customer_LTV_segmented.csv` – Segmented customer list based on LTV
 - 📊 Visualizations included in notebook
